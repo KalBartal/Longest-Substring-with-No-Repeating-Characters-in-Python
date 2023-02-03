@@ -40,16 +40,16 @@ The inner loop keeps sliding the pointers along until it reaches the end of the 
 
 ## Time complexity
 
-The time complexity of this code is O(N), where N is the length of the given string. This is because the only two operations we are performing are checking if two characters are the same and updating the maximum length of the substring, both of which take constant time, meaning they won't change depending on the size of the input. Therefore, the time complexity reduces to the number of characters in the string. 
+The time complexity of this code is O(n), where n is the length of the given string. This is because the only two operations we are performing are checking if two characters are the same and updating the maximum length of the substring, both of which take constant time, meaning they won't change depending on the size of the input. Therefore, the time complexity reduces to the number of characters in the string. 
 
 ## Space complexity
 
-The space complexity of this code is also O(N), where N is the length of the given string, as we are only allocating memory for the two pointers and the maximum length. As a result, the amount of memory required is directly proportional to the size of the input. 
+The space complexity of this code is also O(n), where n is the length of the given string, as we are only allocating memory for the two pointers and the maximum length. As a result, the amount of memory required is directly proportional to the size of the input. 
 
 ## Final thoughts
 
 Tackling the problem of the longest substring with no repeating characters is certainly a challenging task, and making sure you have a robust solution is crucial! You'll need to think through the question carefully and come up with a plan of action that takes into account both the time and space complexities as well. 
 
-At the same time, it can be a great opportunity to practice your string manipulation techniques, break down the problem into manageable steps, and work on your debugging skills. I have a video walkthrough of this problem on my YouTube channel if you'd like some help or further guidance. 
+At the same time, it can be a great opportunity to practice your string manipulation techniques, break down the problem into manageable steps, and work on your debugging skills. I have a video walkthrough of this problem on my [YouTube channel](https://youtu.be/fm03oRITfp8) if you'd like some help or further guidance. 
 
 Good luck with this problem and happy coding!
