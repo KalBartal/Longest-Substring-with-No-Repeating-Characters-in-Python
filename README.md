@@ -1,10 +1,10 @@
 # Longest Substring with No Repeating Characters in Python
 
+[ ![Longest Substring with No Repeating Characters in Python](./image.png)](https://youtu.be/fm03oRITfp8)
+
 Given a string s, find the length of the longest substring without repeating characters.
 
 This repository contains my code, my solution approach and explanation, as well as advice and tips for problem solving. I also have a video walkthrough of this challenge available on my [YouTube channel](https://youtu.be/fm03oRITfp8) and [my blog](https://kalbartal.net/longest-substring-with-no-repeating-characters-in-python/)
-
-[ ![Longest Substring with No Repeating Characters in Python](./image.png)](https://youtu.be/fm03oRITfp8)
 
 ## Examples
 
